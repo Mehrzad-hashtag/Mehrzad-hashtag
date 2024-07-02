@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm mehrzad 👋</h1>
 <p align="center"> 
-  <a href="mailto:smr.tabrizii@gmail.com" alt="reza tabrizi's Gmail">
+  <a href="mailto:mehrzadhiedarnejad3@gmail.com" alt="mehrzad hdn's Gmail">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=c90404&logo=Gmail&logoColor=FFFFFF&label=" />
  </a>
 </p>
