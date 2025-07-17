@@ -17,6 +17,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gsap/gsap-original.svg" width="36" height="36" alt="GSAP" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/GreenSock_Logo.svg" width="36" height="36" alt="GSAP" />
+
 </a>
 </p>
